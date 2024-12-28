@@ -1,0 +1,22 @@
+# Ignore all target folders at all levels
+target/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-*
+*.code-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+/tmp/
+*.tmp
+
+# Environment variables
+.env

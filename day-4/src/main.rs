@@ -361,6 +361,7 @@ mod tests {
 
         assert_eq!(check_x_up(&word_search, 2, 0), true);
     }
+    
     #[test]
     fn test_vertical_up_no() {
         let word_search: Vec<Vec<char>> = vec![
